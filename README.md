@@ -6,7 +6,7 @@ This is a frontend demonstration project created to practise HTML and CSS fundam
 
 ## Live Demo
 
-[View Live Project]([https://YOUR_USERNAME.github.io/responsive-pricing-ui/](https://sanjaysingh-dev.github.io/responsive-pricing-ui/))
+[View Live Project](https://sanjaysingh-dev.github.io/responsive-pricing-ui/)
 
 ## Features
 
