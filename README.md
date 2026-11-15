@@ -4,6 +4,10 @@ A responsive pricing component built using **HTML5 and CSS3**. This project disp
 
 This is a frontend demonstration project created to practise HTML and CSS fundamentals, including Flexbox, CSS selectors, combinators, media queries, and transitions.
 
+## Live Demo
+
+[View Live Project]([https://YOUR_USERNAME.github.io/responsive-pricing-ui/](https://sanjaysingh-dev.github.io/responsive-pricing-ui/))
+
 ## Features
 
 - **Three Pricing Plans:** Basic, Professional, and Master.
