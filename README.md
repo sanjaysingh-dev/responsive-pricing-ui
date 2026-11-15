@@ -30,7 +30,7 @@ This is a frontend demonstration project created to practise HTML and CSS fundam
 ## Project Structure
 
 ```text
-pricing-html-css/
+responsive-pricing-ui/
 │
 ├── index.html
 ├── style.css
@@ -54,7 +54,7 @@ git clone <your-repository-url>
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd pricing-html-css
+cd responsive-pricing-ui
 ```
 
 ### 3. Run the Project
